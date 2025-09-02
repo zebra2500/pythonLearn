@@ -18,3 +18,4 @@ test1 = Test(20)
 print("代码结束") # 代码结束后,所有对象会被销毁,会执行Test的del函数
 
 
+##test
